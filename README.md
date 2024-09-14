@@ -1,0 +1,2 @@
+Parul's Flaskify API is a versatile API built with Flask that provides easy-to-use endpoints for palindrome checking and more. The main page offers a welcoming HTML interface, while the /is_palindrome/<string:n> endpoint checks if a given string is a palindrome and returns the result along with the server's IP address. This project showcases a practical application of Flask for web development and API creation.
+![Screenshot 2024-09-14 121138](https://github.com/user-attachments/assets/58763172-92d6-42b6-af13-97262d2addf5)
